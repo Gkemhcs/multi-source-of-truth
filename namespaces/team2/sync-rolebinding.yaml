@@ -6,7 +6,7 @@
    namespace: team2
  subjects:
  - kind: ServiceAccount
-   name: ns-reconciler-team1-repo-4
+   name: ns-reconciler-team2-repo-4
    namespace: config-management-system
  roleRef:
    kind: ClusterRole
